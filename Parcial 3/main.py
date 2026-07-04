@@ -10,7 +10,7 @@ Notas:
 from peliculas import peliculas
 import funciones
 
-pelis=[]
+pelis={}
 
 opc=""
 
